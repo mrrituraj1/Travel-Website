@@ -1,0 +1,492 @@
+.first{
+    height: 750px;
+    width: 1350px;
+}
+
+.camping{
+    height: 750px;
+    width: 1550px;
+}
+
+.re{
+    position: absolute;
+    top: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    left: 5px;
+    color: white;
+    border-radius: 10%;
+    background-color: #2E0249;
+    position: fixed;
+    font-family: 'Sacramento', cursive;
+}
+
+.cla{
+    position: absolute;
+    top: 35px;
+    text-decoration: none;
+    font-size: 20px;
+    left: 2px;
+    color: white;
+    border-radius: 10%;
+    background-color: #2E0249;
+    position: fixed;
+    font-family: 'Sacramento', cursive;
+}
+
+body{
+    margin: 0px;
+    font-size: 25px;
+}
+
+#camping{
+    position: absolute;
+    top: 5px;
+    left: 450px;
+    color: #363062;
+}
+
+#home{
+    position: absolute;
+    top: 100px;
+    left: 480px;
+    color: #A91079;
+    font-size: 25px;
+    font-family: 'Sacramento', cursive;
+}
+
+#about{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: #A91079;
+    font-size: 25px;
+    font-family: 'Sacramento', cursive;
+}
+
+#more{
+    position: absolute;
+    top: 100px;
+    left: 720px;
+    color: #A91079;
+    font-size: 25px;
+    font-family: 'Sacramento', cursive;
+}
+
+#contact{
+    position: absolute;
+    top: 115px;
+    left: 870px;
+    color: #A91079;
+    text-decoration: none;
+    font-family: 'Sacramento', cursive;
+    font-size: 35px;
+}
+
+#contact:hover{
+    color: aliceblue;
+}
+
+hr{
+    position: absolute;
+    top: 150px;
+    color: greenyellow;
+}
+
+.Enjoy{
+    position: relative;
+    bottom: 350px;
+    left: 90px;
+    color: white;
+    font-style: normal;
+}
+
+.trip{
+    position: relative;
+    bottom: 320px;
+    left: 90px;
+    color: white;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.Ad{
+    position: relative;
+    bottom: 340px;
+    left: 90px;
+    color: white;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.lorem{
+    position: relative;
+    bottom: 340px;
+    left: 90px;
+    color: white;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.second{
+    height: 400px;
+    width: 1350px;
+    text-align: center;
+}
+
+.third{
+    height: 400px;
+    width: 450px;
+    display: inline block;
+    position: absolute;
+    left: 500px;
+}
+
+.four{
+    height: 400px;
+    width: 450px;
+    display: inline block;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.five{
+    height: 400px;
+    width: 450px;
+    display: inline block;
+    position: absolute;
+    left: 1000px;
+}
+
+.flight{
+    height: 100px;
+    width: 100px;
+}
+
+.car{
+    height: 100px;
+    width: 100px;
+}
+
+.bus{
+    height: 50px;
+    width: 50px;
+}
+
+.sit{
+    color: gray;
+    font-style: normal;
+
+}
+
+.velit{
+    margin-top: 5px;
+}
+
+.palace{
+    height: 400px;
+    width: 600px;
+    margin: 100px;
+    display: inline-block;
+}
+
+.pal{
+    height: 400px;
+    width: 600px;
+}
+
+.nin{
+    position: absolute;
+    display: inline-block;
+    left: 900px;
+    padding-top: 25px;
+}
+
+.ca{
+    height: 250px;
+    width: 400px;
+}
+
+.carr{
+    padding-top: 5px;
+    height: 250px;
+    width: 400px;
+    margin-top: 5px;
+}
+
+.new{
+    height: 300px;
+    width: 1550px;
+    background-color: #242F9B;
+    align-items: center;
+}
+
+.bag{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 80px;
+    align-items: center;
+    left: 105px;
+}
+
+.bag5{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 80px;
+    align-items: center;
+    left: 105px;
+}
+
+.bag6{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 80px;
+    align-items: center;
+    left: 105px;
+}
+
+.bag7{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 80px;
+    align-items: center;
+    left: 105px;
+}
+
+.bag1{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+}
+
+.bag2{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+}
+
+.bag3{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 850px;
+}
+
+.bag4{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 1250px;
+}
+
+.year{
+    color: white;
+    font-size: 50px;
+    font-weight:bolder;
+    align-items: center;
+    position: absolute;
+    top: 95px;
+    align-content: center;
+    left: 100px;
+}
+
+.ex{
+    color: white;
+    align-items: center;
+    position: absolute;
+    top: 180px;
+    left: 45px;
+}
+
+.again{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.agent1{
+    padding-top: 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+}
+
+.agent2{
+    padding-top: 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+}
+
+.agent3{
+    padding-top: 50px;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    left: 1000px;
+}
+
+.picture{
+    height: 300px;
+    width: 300px;
+}
+
+.agent{
+    color: orange;
+}
+
+.elit{
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+}
+
+.blue{
+    color:#15133C;
+}
+
+.title{
+    position: relative;
+    top: 700px;
+    text-align: center;
+}
+
+.Germany{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    left: 100px;
+    padding-top: 50px;
+}
+
+.ger{
+    position: absolute;
+    height: 150px;
+    width: 300px;
+    top: 300px;
+    background-color: #2F8F9D;
+    text-align: left;
+    color: white;
+}
+
+.france{
+    position: absolute;
+    left: 600px;
+    padding-top: 50px;
+}
+
+.australia{
+    position: absolute;
+    padding-top: 50px;
+    left: 1100px;
+}
+
+.india{
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+
+.uk{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+
+.usa{
+    position: absolute;
+    top: 600px;
+    left: 1100px;
+}
+
+.ne{
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+    padding-left: 5px;
+}
+
+.u{
+    position: relative;
+    top: 50px;
+}
+
+.n{
+    height: 600px;
+    width: 1550px;
+    background-color: #354259;
+    position: absolute;
+    top: 1200px;
+}
+
+.plan{
+    height: 600px;
+    width: 775px;
+    text-align: center;
+    align-items: center;
+}
+
+.el{
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    top: 400px;
+    align-items: center;
+}
+
+.p{
+    position: absolute;
+    left: 800px;
+    top: 100px
+}
+
+.cli{
+    position: absolute;
+    top: 1900px;
+    left: 200px;
+    text-align: left;
+}
+
+.last{
+    height: 200px;
+    width: 1550px;
+    background-color: #354259;
+    position: absolute;
+    top: 2300px;
+    text-align: center;
+}
+
+.label{
+    position: absolute;
+    margin: 20px;
+    top: 51px;
+    color: white;
+}
+
+select{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    text-decoration: none;
+    height: 30px;
+    position: fixed;
+    color: white;
+    background-color: #6D8B74;
+    border-style:hidden;
+    border-radius: 50px;
+}
